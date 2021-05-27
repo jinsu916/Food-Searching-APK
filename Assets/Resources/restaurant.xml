@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ServiceResult>
+	<msgBody>
+		<dCodeNm>한식</dCodeNm>
+		<foodSeq>FH0000083</foodSeq>
+		<name>제주뜰 향 갈치전문점</name>
+		<addr1>대전광역시 중구 중앙로121번길 20</addr1>
+		<openTime>10:00</openTime>
+		<closeTime>22:00</closeTime>
+		<table1>28</table1>
+		<table2> </table2>
+		<foodMenuEtcListAll>
+			<FoodMenuEtcList>
+				<basis>2인이상 주문가능, 회무침+갈치회+갈치조림+고등어조림+고등어구이</basis>
+				<price>1인 : 12,000원</price>
+				<title>제주 뜰 향정식</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>7,000원</price>
+				<title>고등어조림</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>7,000원</price>
+				<title>해물뚝배기</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>7,000원</price>
+				<title>고등어구이</title>
+				</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>12,000원</price>
+				<title>옥돔구이</title>
+			</FoodMenuEtcList>
+		</foodMenuEtcListAll>
+	</msgBody>
+
+	<msgBody>
+		<dCodeNm>한식</dCodeNm>	
+		<foodSeq>FH0000084</foodSeq>
+		<name>논두렁 추어칼국수</name>
+		<addr1>대전광역시 중구 보문로20번길 41</addr1>
+		<openTime>11:00</openTime>
+		<closeTime>22:00</closeTime>
+		<table1>10</table1>
+		<table2> </table2>
+		<foodMenuEtcListAll>
+			<FoodMenuEtcList>
+				<price>5,000원</price>
+				<title>추어탕</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<price>중 : 20,000원, 대 : 25,000원</price>
+				<title>추어매운탕</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<price>5,000원</price>
+				<title>추어튀김</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<price>5,000원</price>
+				<title>추어만두</title>
+			</FoodMenuEtcList>
+		</foodMenuEtcListAll>
+	</msgBody>
+
+	<msgBody>
+		<dCodeNm>한식</dCodeNm>
+		<foodSeq>FH0000085</foodSeq>
+		<name>다솜</name>
+		<addr1>대전광역시 중구 문창동</addr1>
+		<openTime>10:00</openTime>
+		<closeTime>22:00</closeTime>
+		<table1>30</table1>
+		<table2> </table2>
+		<foodMenuEtcListAll>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>5,000원</price>
+				<title>흑마늘 닭칼국수</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>4,000원</price>
+				<title>흑마늘 들깨칼국수</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>30,000원</price>
+				<title>흑마늘 오리백숙</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>30,000원</price>
+				<title>닭매운탕</title>
+			</FoodMenuEtcList>
+			<FoodMenuEtcList>
+				<basis> </basis>
+				<price>4,000원</price>
+				<title>닭계장</title>
+			</FoodMenuEtcList>
+		</foodMenuEtcListAll>
+	</msgBody>
+
+<msgBody>
+<dCodeNm>양식</dCodeNm>
+<foodSeq>FH0000086</foodSeq>
+<name>로제타</name>
+<addr1>대전광역시 유성구 대덕대로 516</addr1>
+<openTime>10:00</openTime>
+<closeTime>01:00</closeTime>
+<table1>18</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>매콤한 소스의 해물 스파게티</basis>
+<price>19,000원</price>
+<title>상하이 스파게티</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>연한 통개와 해산물요리</basis>
+<price>17,000원</price>
+<title>쉘크랩</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>일식</dCodeNm>
+<foodSeq>FH0000087</foodSeq>
+<name>우미일식</name>
+<addr1>대전광역시 유성구 온천서로 30</addr1>
+<openTime>00:00</openTime>
+<closeTime>24:00</closeTime>
+<table1>15</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>50,000원</price>
+<title>스페셜정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>도미,광어,농어 등 계절별 신선한 생선</basis>
+<price>70,000원</price>
+<title>모듬생선회</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>120,000원</price>
+<title>모듬참치회</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000088</foodSeq>
+<name>강남복집</name>
+<addr1>대전광역시 유성구 온천동로65번길 50</addr1>
+<openTime>07:30</openTime>
+<closeTime>22:00</closeTime>
+<table1>27</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>14,000원</price>
+<title>복지리탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>14,000원</price>
+<title>복매운탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>얼큰한 복해장국</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>맑은 지리 해장국</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>소,중,대 : 35,000원~50,000원</price>
+<title>복찜</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>소,중,대 : 30,000원~40,000원</price>
+<title>아구찜</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000089</foodSeq>
+<name>서라벌</name>
+<addr1>대전광역시 유성구 대학로 38</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>40</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>32,000원</price>
+<title>암소꽃등심</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>20,000원</price>
+<title>징기스칸</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>10,000원</price>
+<title>불고기</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>10,000원</price>
+<title>상추쌈 샤브</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>냉면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>일식</dCodeNm>
+<foodSeq>FH0000090</foodSeq>
+<name>미락가</name>
+<addr1>대전광역시 유성구 온천로 44</addr1>
+<openTime>10:00</openTime>
+<closeTime>02:30</closeTime>
+<table1>8</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>120,000원</price>
+<title>로얄참치</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>100,000원</price>
+<title>참치스페셜</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>60,000원</price>
+<title>생선스페셜</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>150,000원</price>
+<title>미락가 점심특선</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000091</foodSeq>
+<name>서울가든</name>
+<addr1>대전광역시 유성구 계룡로87번길 2</addr1>
+<openTime>08:00</openTime>
+<closeTime>24:00</closeTime>
+<table1>60</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000</price>
+<title>물냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>3,000</price>
+<title>누룽지</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,500</price>
+<title>비빔냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>28.000</price>
+<title>생갈비</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000</price>
+<title>갈비탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>17,000</price>
+<title>장어구이</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000092</foodSeq>
+<name>모정</name>>
+<addr1>대전광역시 유성구 온천로107번길 17</addr1>
+<openTime>11:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>50</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>35,000원</price>
+<title>달정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>25,000원</price>
+<title>별정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>70,000원</price>
+<title>수라정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>15,000원</price>
+<title>점심특선</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000093</foodSeq>
+<name>만나유성점</name>
+<addr1>대전광역시 유성구 계룡로87번길 16</addr1>
+<openTime>11:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>90</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>
+연한 육질과 풍미가 좋은 등심을 멋스러운 상차림과 함께 본연의 맛 고스란히 맛볼 수 있는 생고기 구이
+</basis>
+<price>28,000원 (150g)</price>
+<title>한우등심</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>
+상견례나 생신연의 메뉴로 가장 즐겨 찾으시는 메뉴입니다. 특히 꽃자물쇠를 푸시면서 우리 조상들의 멋과 풍취를 함께 즐기실 수 있습니다.
+</basis>
+<price>36,000원 (1인)</price>
+<title>만나한정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>신선한 야채와 고기에 담백하고 고소한 우렁쌈장을 함께 먹는 실속있고 푸짐한 점심특선 메뉴</basis>
+<price>13,000원</price>
+<title>우렁쌈밥정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>과일즙과 참기름등의 천연재료로 맛을 낸 최고급 불고기입니다. (궁중불고기+공기밥)</basis>
+<price>11,000원 (2인이상 주문가능)</price>
+<title>궁중불고기정식</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>
+풍성한 야채와 버섯, 쇠고기가 어우러진 메뉴로 봄, 여름, 가을, 겨울 어느 계절에도 잘 어울리는 건강식입니다. 다양한 소스가 있어 식성에 따라 골라드실 수 있습니다.
+</basis>
+<price>19,500원</price>
+<title>징기스칸샤브샤브</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>맑고 진한 국물의 갈비탕은 각종 영양이 풍부한 건강식입니다.</basis>
+<price>7,000원</price>
+<title>갈비탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<price>6,000원(물냉면), 6,500원(비빔냉면)</price>
+<title>코다리냉면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000094</foodSeq>
+<name>청주해장국</name>
+<addr1>대전광역시 유성구 온천로 63</addr1>
+<openTime>00:00</openTime>
+<closeTime>24:00</closeTime>1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,500원</price>
+<title>복해장국</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>선지해장국</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>소고기해장국</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000095</foodSeq>
+<name>청양골</name>
+<addr1>대전광역시 유성구 대학로 46</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>50</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 28,000원</price>
+<title>생갈비</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>2인 : 33,000원</price>
+<title>양념갈비</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 20,000원</price>
+<title>갈비살</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000096</foodSeq>
+<name>대나무통밥 큰정식</name>
+<addr1>대전광역시 대덕구 송촌북로5번길 29</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>35</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 12,000원</price>
+<title>영양 연잎밥</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000129</foodSeq>
+<name>오는정</name>
+<addr1>대전광역시 유성구 은구비서로23번길 8-13</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>11</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>이북식 접시만두</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>이북식 떡만두국</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>평양냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>4,000원</price>
+<title>생녹두전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>8,000원</price>
+<title>해물파전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>15,000원</price>
+<title>별미수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>13,000원</price>
+<title>돼지두루치기</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>40,000원</price>
+<title>토끼탕</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000174</foodSeq>
+<name>금성삼계탕</name>
+<addr1>대전광역시 동구 선화로196번길 44</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>40</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<price>1인 : 9,000원</price>
+<title>삼계탕</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000175</foodSeq>
+<name>느티나무집</name>
+<addr1>대전광역시 유성구 대학로 23</addr1>
+<openTime>06:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>35</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 7,000원</price>
+<title>갈비탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 6,000원</price>
+<title>비빔돌솥밥</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 15,000원</price>
+<title>전복 도가니탕</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000177</foodSeq>
+<name>신촌설렁탕</name>
+<addr1>대전광역시 중구 대흥로 15</addr1>
+<openTime>00:00</openTime>
+<closeTime>24:00</closeTime>
+<table1>60</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>22,000원</price>
+<title>모듬수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>22,000원</price>
+<title>도가니수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>28,000원</price>
+<title>꼬리찜</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000178</foodSeq>
+<name>희락반점</name>
+<addr1>대전광역시 중구 중앙로129번길 21</addr1>
+<openTime>11:00</openTime>
+<closeTime>21:30</closeTime>
+<table1>25</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>27,000원</price>
+<title>고추잡채</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>13,000원</price>
+<title>탕수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>3,500원</price>
+<title>자장면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000179</foodSeq>
+<name>영동식당</name>
+<addr1>대전광역시 중구 계룡로874번길 27-9</addr1>
+<openTime>12:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>14</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 8,000원</price>
+<title>염소탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 8,000원</price>
+<title>보신탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1kg : 50,000원</price>
+<title>수육</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000180</foodSeq>
+<name>내집식당</name>
+<addr1>대전광역시 중구 대흥로121번길 42</addr1>
+<openTime>12:00</openTime>
+<closeTime>22:00</closeTime>
+<table1>19</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>20,000원</price>
+<title>올갱이무침</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>15,000원</price>
+<title>올갱이전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>10,000원</price>
+<title>두부 두루치기</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>백두부</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000183</foodSeq>
+<name>진로집</name>
+<addr1>대전광역시 중구 중교로 45-5</addr1>
+<openTime>09:30</openTime>
+<closeTime>22:00</closeTime>
+<table1>48</table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>1인 : 5,000원</price>
+<title>두부전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>대 : 15,000원, 소 : 10,000원</price>
+<title>돼지고기 수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>12,000원</price>
+<title>제육볶음</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>12,000원</price>
+<title>오징어찌개</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>양식</dCodeNm>
+<foodSeq>FH0000900</foodSeq>
+<name>베니건스</name>
+<addr1>대전광역시 서구 대덕대로 187</addr1>
+<openTime>11:00</openTime>
+<closeTime>23:00</closeTime>
+<table1> </table1>
+<table2>63</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>11:00~17:00/과일에이드, 수프, 세사미브레드, 커피나 녹차 제공</basis>
+<price>13,900원-28,700원</price>
+<title>런치메뉴</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>31,800원</price>
+<title>쟈스민 바베큐 폭립</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>17,900원</price>
+<title>컨츄리 치킨 샐러드</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>17,900원</price>
+<title>몬테 크리스토</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>26,800원</price>
+<title>트리플 콤보 스테이크</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>18,500원</price>
+<title>머쉬룸 베이컨 까르보나라</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>양식</dCodeNm>
+<foodSeq>FH0000901</foodSeq>
+<name>아웃백 스테이크하우스</name>
+<addr1>대전광역시 중구 중앙로156번길 16</addr1>
+<openTime>12:00</openTime>
+<closeTime>21:00</closeTime>
+<table1> </table1>
+<table2>43</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>12:00-17:00/과일에이드, 수프, 브쉬맨브레드, 커피 제공</basis>
+<price>13,900원-28,900원</price>
+<title>런치메뉴</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>27,900원-31,900원</price>
+<title>베이비백립</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>16,500원</price>
+<title>치킨텐더셀러드</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>16,900원</price>
+<title>투움바파스타</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>16,500원</price>
+<title>그릴드 치킨 망고 셀러드</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000902</foodSeq>
+<name>천안문</name>
+<addr1>대전광역시 서구 둔산남로9번길 79</addr1>
+<openTime>09:00</openTime>
+<closeTime>21:00</closeTime>
+<table2>23</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>5,000원</price>
+<title>야끼짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>중국냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>8,000원</price>
+<title>송이덮밥</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000903</foodSeq>
+<name>라오왕 전민점</name>
+<addr1>대전광역시 유성구 엑스포로446번길 6</addr1>
+<openTime>11:30</openTime>
+<closeTime>22:00</closeTime>
+<table1> </table1>
+<table2>26</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>중: 35,000원</basis>
+<price>45,500원</price>
+<title>해물누룽지(대)</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,500원</price>
+<title>미스터왕짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>13,000원</price>
+<title>잡탕밥</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000904</foodSeq>
+<name>차이나 공</name>
+<addr1>대전광역시 서구 둔산대로117번길 18</addr1>
+<openTime>11:30</openTime>
+<closeTime>21:10</closeTime>
+<table1> </table1>
+<table2>25</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>45,000원</price>
+<title>매생이 삼선 누룽지탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>65,000원</price>
+<title>불도장</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>6인 기준</basis>
+<price>70,000원</price>
+<title>자연송이전복볶음</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>8,000원</price>
+<title>부추짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>9,000원</price>
+<title>과일냉면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000905</foodSeq>
+<name>무지개한정식</name>
+<addr1>대전광역시 중구 보문로 264</addr1>
+<openTime>11:30</openTime>
+<closeTime>21:10</closeTime>
+<table1> </table1>
+<table2>30</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>4-5인 기준</basis>
+<price>70,000원</price>
+<title>송이, 해삼, 전복요리</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4-5인 기준</basis>
+<price>40,000원</price>
+<title>마라안심</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4-5인 기준</basis>
+<price>55,000원</price>
+<title>오룡해삼</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>7,000원</price>
+<title>특짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>10,000원</price>
+<title>자연송이 굴탱면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>양식</dCodeNm>
+<foodSeq>FH0000906</foodSeq>
+<name>친친</name>
+<addr1>대전광역시 서구 만년로68번길 31</addr1>
+<openTime>12:00</openTime>
+<closeTime>01:00</closeTime>
+<table1> </table1>
+<table2>20</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>소고기,돼지고기,닭고기,해산물 이용</basis>
+<price>30,000원-</price>
+<title>스테이크</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1-2인 기준/이태리 정통 피자, 얇고 신선한 재료 사용</basis>
+<price>15,000원-</price>
+<title>피자</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>2-3인 기준/다양한 나라의 80여가지 와인 구비</basis>
+<price>40,000원-</price>
+<title>와인</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000907</foodSeq>
+<name>구즉묵집</name>
+<addr1>대전광역시 유성구 대덕대로 1091-25</addr1>
+<openTime>09:00</openTime>
+<closeTime>21:30</closeTime>
+<table1> </table1>
+<table2>42</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>보리밥</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>13,000원</price>
+<title>닭가슴살 묵무침</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>40,000원</price>
+<title>한방오리백숙</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000908</foodSeq>
+<name>원조50년 구즉할머니 묵집</name>
+<addr1>대전광역시 유성구 봉산동</addr1>
+<openTime>10:00</openTime>
+<closeTime>22:00</closeTime>
+<table1> </table1>
+<table2>25</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>보리밥</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>5,000원</price>
+<title>두부</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>4,000원</price>
+<title>부침게</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>28,000원</price>
+<title>토종 백숙(닭볶음탕)</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>35,000원</price>
+<title>옻, 엄나무 백숙</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000909</foodSeq>
+<name>구즉 이서방 묵집</name>
+<addr1>대전광역시 유성구 관평동</addr1>
+<openTime>11:00</openTime>
+<closeTime>21:30</closeTime>
+<table1> </table1>
+<table2>20</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>8,000원</price>
+<title>묵무침</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>묵밥</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>35,000원</price>
+<title>옻닭</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000910</foodSeq>
+<name>솔밭묵집</name>
+<addr1>대전광역시 유성구 관평동</addr1>
+<openTime>09:30</openTime>
+<closeTime>21:30</closeTime>
+<table1> </table1>
+<table2>90</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>보리밥, 두부김치</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>8,000원</price>
+<title>묵무침</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>7,000원</price>
+<title>파전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>3,000원</price>
+<title>묵전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>접시묵</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>토종닭 사용</basis>
+<price>32,000원</price>
+<title>백숙</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>35,000원</price>
+<title>닭 볶음탕</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000911</foodSeq>
+<name>산밑할머니</name>
+<addr1>대전광역시 유성구 관용로 33</addr1>
+<openTime>09:00</openTime>
+<closeTime>21:00</closeTime>
+<table1> </table1>
+<table2>44</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>32,000원</price>
+<title>닭도리탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>30,000원</price>
+<title>백숙</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>보리밥</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>한식</dCodeNm>
+<foodSeq>FH0000912</foodSeq>
+<name>산골묵집</name>
+<addr1>대전광역시 유성구 관용로63번길 47</addr1>
+<openTime>10:00</openTime>
+<closeTime>21:30</closeTime>
+<table1> </table1>
+<table2>20</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>보리밥</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>6,000원</price>
+<title>손두부</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>4,000원</price>
+<title>도토리전</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>33,000원</price>
+<title>칡 백숙</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>33,000원</price>
+<title>닭도리탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>36,000원</price>
+<title>옻닭</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000913</foodSeq>
+<name>천년의 정원</name>
+<addr1>대전광역시 서구 만년로67번길 18-13</addr1>
+<openTime>11:30</openTime>
+<closeTime>22:00</closeTime>
+<table1> </table1>
+<table2> </table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>8,000원</price>
+<title>진시황 냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>8,000원</price>
+<title>짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis> </basis>
+<price>11,000원</price>
+<title>해물잡탕밥</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000914</foodSeq>
+<name>삼국지</name>
+<addr1>대전광역시 서구 둔산대로117번길 34</addr1>
+<openTime>11:30</openTime>
+<closeTime>22:00</closeTime>
+<table1> </table1>
+<table2>13</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>4-6인 기준/각종 고급해산물 볶음 요리</basis>
+<price>63,000원</price>
+<title>전가복</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4-6인 기준/매콤 달콤 새콤한 간풍소스로 버무린 새우요리</basis>
+<price>51,000원</price>
+<title>간풍중새우</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>해산물과 찹쌀누룽지를 튀겨 만든 스프</basis>
+<price>48,000원</price>
+<title>해물누룽지탕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준/해산물과 과일이 들어있는 담백하고 깔끔한 냉면</basis>
+<price>8,000원</price>
+<title>중식냉면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000915</foodSeq>
+<name>이금당</name>
+<addr1>대전광역시 서구 둔산로 125</addr1>
+<openTime>11:30</openTime>
+<closeTime>21:30</closeTime>
+<table1> </table1>
+<table2>50</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>8,000원</price>
+<title>비취냉면</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>4인 기준</basis>
+<price>35,000원</price>
+<title>단호박 닭고기 가슴살</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>2-3인 기준</basis>
+<price>35,000원</price>
+<title>부귀 중새우</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000916</foodSeq>
+<name>오후청</name>
+<addr1>대전광역시 서구 둔산동</addr1>
+<openTime>11:00</openTime>
+<closeTime>22:00</closeTime>
+<table1> </table1>
+<table2>8</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>6인 기준/해삼과 와인에 숙성한 두툼한 삼겹살을 부드럽고 맛있게 만든 요리</basis>
+<price>70,000원</price>
+<title>해삼 삼겹살</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>6인 기준/항암 성분이 포함된 송이와 안심을 볶은 요리</basis>
+<price>65,000원</price>
+<title>자연송이 안심</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준/샥스핀, 전복, 송이, 오골계, 노루힘줄 등 중국 최고의 보양수프</basis>
+<price>60,000원</price>
+<title>오후청 불도장</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>6인 기준/새콤 달콤 정통 탕수육</basis>
+<price>24,000원</price>
+<title>탕수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>6인 기준/각종 소스로 요리할 수 있는 통통한 새우튀김 요리</basis>
+<price>48,000원</price>
+<title>중새우 요리</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000917</foodSeq>
+<name>만다린</name>
+<addr1>대전광역시 서구 둔산로31번길 32</addr1>
+<openTime>11:00</openTime>
+<closeTime>21:00</closeTime>
+<table1> </table1>
+<table2>68</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>낙지짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>홍굴이 짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>사천홍합냉면</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+
+<msgBody>
+<dCodeNm>중식</dCodeNm>
+<foodSeq>FH0000918</foodSeq>
+<name>챠오챠오</name>
+<addr1>대전광역시 서구 갈마중로7번길 10-3</addr1>
+<openTime>00:00</openTime>
+<closeTime>24:00</closeTime>
+<table1> </table1>
+<table2>18</table2>
+<foodMenuEtcListAll>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>3,000원</price>
+<title>짬뽕</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>1인 기준</basis>
+<price>6,000원</price>
+<title>미니탕수육</title>
+</FoodMenuEtcList>
+<FoodMenuEtcList>
+<basis>2인 기준</basis>
+<price>9,000원</price>
+<title>야끼짬뽕</title>
+</FoodMenuEtcList>
+</foodMenuEtcListAll>
+</msgBody>
+</ServiceResult>
