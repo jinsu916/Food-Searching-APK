@@ -251,3 +251,7 @@ D:\비트30기 조진수\시제품경진대회\test\obj\Debug\VuforiaScripts.csp
 D:\비트30기 조진수\시제품경진대회\test\obj\Debug\VuforiaScripts.csproj.CoreCompileInputs.cache
 D:\비트30기 조진수\시제품경진대회\test\obj\Debug\VuforiaScripts.dll
 D:\비트30기 조진수\시제품경진대회\test\obj\Debug\VuforiaScripts.pdb
+C:\Users\jinsu\OneDrive\문서\GitHub\Food-Searching-APK\obj\Debug\VuforiaScripts.csprojAssemblyReference.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\Food-Searching-APK\obj\Debug\VuforiaScripts.csproj.CoreCompileInputs.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\Food-Searching-APK\obj\Debug\VuforiaScripts.dll
+C:\Users\jinsu\OneDrive\문서\GitHub\Food-Searching-APK\obj\Debug\VuforiaScripts.pdb
